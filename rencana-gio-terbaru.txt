@@ -3,3 +3,5 @@ rencana hidup gio terbaru
 -belajar php
 -belajar html
 -lulus terbaik
+-es6
+-vlogs
